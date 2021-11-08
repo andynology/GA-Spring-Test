@@ -1,0 +1,4 @@
+runtime: java11
+env: standard
+instance_class: F4
+service: ali
